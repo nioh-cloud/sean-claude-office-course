@@ -8,7 +8,7 @@ description: 클로드 완전정복 강의의 연습 자료를 받아 줍니다.
 수강생이 "N강 강의자료 받아줘"처럼 부탁하면 아래 순서대로 합니다.
 
 1. 몇 강인지 확인합니다. 숫자가 없으면 몇 강 자료가 필요한지 한 번만 묻습니다.
-2. 공개 저장소 `dev-sean-2016/claude-lecture-files`를 읽기 권한으로 이 대화에 추가해 달라고 요청합니다. 수강생이 허용하면 `git clone --depth 1 https://github.com/dev-sean-2016/claude-lecture-files` 로 받습니다.
+2. 공개 저장소 `nioh-cloud/sean-claude-office-course`를 읽기 권한으로 이 대화에 추가해 달라고 요청합니다. 수강생이 허용하면 `git clone --depth 1 https://github.com/nioh-cloud/sean-claude-office-course` 로 받습니다.
 3. `N강/` 폴더 안의 파일을 **고치지 말고 그대로** 대화에 파일로 첨부합니다.
 4. 답은 짧게 합니다. "N강 자료 K개를 받았습니다"와 파일 이름 목록만 쓰고, 파일 내용을 분석하거나 요약하지 않습니다. 다음 부탁을 기다립니다.
 
